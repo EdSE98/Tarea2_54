@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<style media="screen">
+  .cabeza{
+    background: white;
+    position:relative;
+    margin: auto;
+    width: auto;
+    height: auto;
+    border: 5px solid white;
+    border-radius: 5px;
+  }
+  body{
+    background: green
+  }
+  .texto{
+    width: auto;
+    height: auto;
+    background: white;
+    border: 5px solid black;
+    border-radius: 5px;
+    margin: auto;
+    padding: 15px;
+  }
+
+</style>
+</html>
