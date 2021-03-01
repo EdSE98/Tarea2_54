@@ -11,7 +11,9 @@
     border-radius: 5px;
   }
   body{
-    background: green
+    background-image: url(fondo.jpg);
+    background-size: cover;
+
   }
   .texto{
     width: auto;
